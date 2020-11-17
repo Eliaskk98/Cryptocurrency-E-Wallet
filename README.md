@@ -3,7 +3,7 @@
 =======
 # e_wallet
 
-A new Flutter project.
+A Flutter project. Cryptocurrency E-Wallet using Flutter and Firebase.
 
 ## Getting Started
 
